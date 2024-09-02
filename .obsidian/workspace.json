@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "89951c08f0f0f50e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ПриоСтрат/2. Вызовы и СНТР.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ПриоСтрат/1. НТУ \"Сириус\".md",
+                "file": "ПриоСтрат/2. Вызовы и СНТР.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ПриоСтрат/1. НТУ \"Сириус\".md",
+                "file": "ПриоСтрат/2. Вызовы и СНТР.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ПриоСтрат/1. НТУ \"Сириус\".md"
+                "file": "ПриоСтрат/2. Вызовы и СНТР.md"
               }
             }
           }
@@ -159,16 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbf9d072041f6543",
+  "active": "89951c08f0f0f50e",
   "lastOpenFiles": [
+    "README.md",
+    "ПриоСтрат/2. Вызовы и СНТР.md",
+    "МатАнал/Материалы/_Алгебра и начала анализа_, 10 класс - Пратусевич.pdf",
     "ПриоСтрат/0. Ширяев Михаил Виссарионович. Вводная..md",
     "ПриоСтрат/1. НТУ \"Сириус\".md",
     "ПриоСтрат/Материалы/НТУ \"Сириус\", схема.pdf",
     "ПриоСтрат/Материалы",
     "МатАнал/0. Федоров Глеб Владимирович. Вводная..md",
-    "Untitled.md",
     "ПриоСтрат",
-    "README.md",
     "Материалы/_Алгебра и начала анализа_, 10 класс - Пратусевич.pdf",
     "МатАнал/1. Высказывания и предикаты.md",
     "Материалы",
