@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "ПриоСтрат/1. НТУ \"Сириус\".md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ПриоСтрат/1. НТУ \"Сириус\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "ПриоСтрат/1. НТУ \"Сириус\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "ПриоСтрат/1. НТУ \"Сириус\".md"
               }
             }
           }
@@ -161,9 +161,16 @@
   },
   "active": "cbf9d072041f6543",
   "lastOpenFiles": [
-    "МатАнал/1. Высказывания и предикаты.md",
-    "README.md",
+    "ПриоСтрат/0. Ширяев Михаил Виссарионович. Вводная..md",
+    "ПриоСтрат/1. НТУ \"Сириус\".md",
+    "ПриоСтрат/Материалы/НТУ \"Сириус\", схема.pdf",
+    "ПриоСтрат/Материалы",
     "МатАнал/0. Федоров Глеб Владимирович. Вводная..md",
+    "Untitled.md",
+    "ПриоСтрат",
+    "README.md",
+    "Материалы/_Алгебра и начала анализа_, 10 класс - Пратусевич.pdf",
+    "МатАнал/1. Высказывания и предикаты.md",
     "Материалы",
     "МатАнал"
   ]
