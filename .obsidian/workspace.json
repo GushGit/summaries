@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cbf9d072041f6543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "МатАнал/1. Высказывания и предикаты.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "МатАнал/1. Высказывания и предикаты.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "МатАнал/1. Высказывания и предикаты.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,12 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b26fefdb32e3c07f",
+  "active": "cbf9d072041f6543",
   "lastOpenFiles": [
-    "МатАнал/0. Федоров Глеб Владимирович. Вводная..md",
     "МатАнал/1. Высказывания и предикаты.md",
+    "README.md",
+    "МатАнал/0. Федоров Глеб Владимирович. Вводная..md",
     "Материалы",
-    "Untitled.md",
     "МатАнал"
   ]
 }
